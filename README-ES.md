@@ -2,7 +2,7 @@
 
 # <img src="https://raw.githubusercontent.com/bryandms/covid-19costaricatracker/master/media/icon.png" alt="Logo" height="24"> Covid-19 Costa Rica Tracker
 
-[Acerca del proyecto](#acerca-del-proyecto) | [Instalar](#instalar) | [Configurar mi propio tracker](#configurar-mi-propio-tracker)
+[Acerca del proyecto](#acerca-del-proyecto) | [Instalar](#instalar) | [Configurar mi propio tracker](#configurar-mi-propio-tracker) | [Licencia](#licencia)
 
 [:es:](README-ES.md) | [:us:](README.md)
 
@@ -60,3 +60,7 @@ Edite la variable `countryName` en el archivo`covid-COUNTRY.UPDATE_TIME.js` por 
 **4. Ejecute su archivo**
 
 Vaya a la carpeta del complemento y ejecute `chmod + x covid-COUNTRY.UPDATE_TIME.js` y actualice Bitbar.
+
+## Licencia
+
+[Ver licencia](https://github.com/bryandms/covid-19costaricatracker/blob/master/LICENSE)
