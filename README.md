@@ -9,7 +9,7 @@
 
 ## About The Project
 
-[Bitbar](https://getbitbar.com/) Plugin to track Covid-19 cases in Greece from MacOS menu bar.
+[Bitbar](https://getbitbar.com/) Plugin to track Covid-19 cases in Greece at MacOS menu bar.
 
 **Built with:**
 
