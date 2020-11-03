@@ -4,7 +4,6 @@
 
 [About the Project](#about-the-project) | [How to Install](#how-to-install) | [Set up my own tracker](#set-up-my-own-tracker) | [License](#license)
 
-[:gr:](README-GR.md) [:es:](README-ES.md) | [:us:](README.md)
 
 </div>
 
@@ -35,7 +34,7 @@ There are two ways to install BitBar on your Mac:
 
 **3. Saving this script**
 
-- Download the [script](https://raw.githubusercontent.com/bryandms/covid-19costaricatracker/master/covid-costarica.1h.js) on your local machine. Make sure you place this file in the same plugin folder which you created while installing Bitbar.
+- Download the [script](https://github.com/konpapanik/covid19-greece-tracker-macos/blob/master/covid-greece.1h.js) on your local machine. Make sure you place this file in the same plugin folder which you created while installing Bitbar.
 - Go to the plugin folder and run `chmod +x covid-costarica.1h.js`
 - Refresh Bitbar.
 
@@ -61,4 +60,4 @@ Go to the plugin folder and run `chmod +x covid-COUNTRY.UPDATE_TIME.js` and refr
 
 ## License
 
-[See license](https://github.com/bryandms/covid-19costaricatracker/blob/master/LICENSE)
+[See license](https://github.com/konpapanik/covid19-greece-tracker-macos/blob/master/LICENSE)
