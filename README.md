@@ -16,7 +16,7 @@
 - [Bitbar](https://getbitbar.com/)
 - [Novel COVID API](https://github.com/NovelCOVID/API)
 
-![](https://github.com/bryandms/covid-19costaricatracker/blob/master/media/fullscreenpreview.png?raw=true)
+![](https://github.com/konpapanik/covid19-greece-tracker-macos/blob/master/media/fullscreenpreview.png?raw=true)
 
 ## How to Install
 
