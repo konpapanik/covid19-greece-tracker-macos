@@ -4,7 +4,7 @@
 
 [About the Project](#about-the-project) | [How to Install](#how-to-install) | [Set up my own tracker](#set-up-my-own-tracker) | [License](#license)
 
-[:el:](README-GR.md) [:es:](README-ES.md) | [:us:](README.md)
+[:gr:](README-GR.md) [:es:](README-ES.md) | [:us:](README.md)
 
 </div>
 
