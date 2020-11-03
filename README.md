@@ -1,23 +1,21 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/bryandms/covid-19costaricatracker/master/media/icon.png" alt="Logo" height="24"> Covid-19 Costa Rica Tracker
+# <img src="https://raw.githubusercontent.com/bryandms/covid-19costaricatracker/master/media/icon.png" alt="Logo" height="24"> Covid-19 Greece Tracker
 
 [About the Project](#about-the-project) | [How to Install](#how-to-install) | [Set up my own tracker](#set-up-my-own-tracker) | [License](#license)
 
-[:es:](README-ES.md) | [:us:](README.md)
+[:el:](README-GR.md) [:es:](README-ES.md) | [:us:](README.md)
 
 </div>
 
 ## About The Project
 
-[Bitbar](https://getbitbar.com/) Plugin to track Covid-19 cases in Costa Rica from MacOS menu bar.
+[Bitbar](https://getbitbar.com/) Plugin to track Covid-19 cases in Greece from MacOS menu bar.
 
 **Built with:**
 
 - [Bitbar](https://getbitbar.com/)
 - [Novel COVID API](https://github.com/NovelCOVID/API)
-
-![](https://github.com/bryandms/covid-19costaricatracker/blob/master/media/minimisedpreview.png?raw=true)
 
 ![](https://github.com/bryandms/covid-19costaricatracker/blob/master/media/fullscreenpreview.png?raw=true)
 
@@ -51,7 +49,7 @@ If you download it you will have to unzip the project.
 
 **2. Rename the file**
 
-Edit the file name `covid-costarica.1h.js` for `covid-COUNTRY.UPDATE_TIME.js`, where `COUNTRY` is the country you want to track and `UPDATE_TIME` is the data update time. For more information about the update time settings click [here](https://github.com/matryer/bitbar#configure-the-refresh-time).
+Edit the file name `covid-greece.1h.js` for `covid-COUNTRY.UPDATE_TIME.js`, where `COUNTRY` is the country you want to track and `UPDATE_TIME` is the data update time. For more information about the update time settings click [here](https://github.com/matryer/bitbar#configure-the-refresh-time).
 
 **3. Set my country**
 
