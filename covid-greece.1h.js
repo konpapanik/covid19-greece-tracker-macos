@@ -1,14 +1,5 @@
 #!/usr/bin/env /usr/local/bin/node
 
-//<bitbar.title>Covid-19 Costa Rica Tracker</bitbar.title>
-//<bitbar.version>v1.0</bitbar.version>
-//<bitbar.author>Bryan Morales</bitbar.author>
-//<bitbar.author.github>bryandms</bitbar.author.github>
-//<bitbar.desc>Track number of corona virus cases in Costa Rica from your status bar</bitbar.desc>
-//<bitbar.dependencies>node</bitbar.dependencies>
-//<bitbar.image>https://github.com/bryandms/covid-19costaricatracker/blob/master/media/zoomedpreview.png</bitbar.image>
-//<bitbar.abouturl>https://github.com/bryandms/covid-19costaricatracker/blob/master/README.md</bitbar.abouturl>
-
 const https = require("https");
 const countryName = "gr"; // Greece
 const icon =
@@ -89,5 +80,5 @@ function showWorldData() {
  * Format number
  */
 Number.prototype.format = function () {
-  return new Intl.NumberFormat("fr-FR").format(this);
+  return new Intl.NumberFormat("gr-GR").format(this);
 };
